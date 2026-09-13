@@ -2,7 +2,7 @@
    from the chain, and says "hungry" when the feeding neurons fire. The amp buys the fly on that signal.
    The amount is fixed by fees; only the timing is reflex. If nothing makes it hungry for maxWaitMin,
    it buys anyway and says so. */
-import fs from 'node:fs';
+import fs from 'node:fs';.
 import path from 'node:path';
 import { here, CFG, pub, sleep } from './lib.js';
 
