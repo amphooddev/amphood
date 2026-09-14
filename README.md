@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="amphoodz.png" alt="AMPHOOD organism" width="380" />
+  <img src="amphoodz.png" alt="AMPHOOD organism" width="1380" />
 </p>
 <h1 align="center">AMPHOOD</h1>
 
