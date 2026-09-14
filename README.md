@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="apmhoodz.png alt="AMPHOOD organism" width="380" />
+  <img src="amphoodz.png alt="AMPHOOD organism" width="380" />
 </p>
 
 <img src="apmhoodz.png" alt="AMPHOOD organism" width="380" />
