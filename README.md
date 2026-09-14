@@ -1,5 +1,5 @@
 # amphood
-A brain on-chain.
+amphood an amphipod-inspired digital organism
 
 <p align="center">
   <img src="public/organism.png" alt="AMPHOOD organism" width="360" />
@@ -12,7 +12,7 @@ A brain on-chain.
 </p>
 
 <p align="center">
-  <a href="https://amphood.vercel.app">amphood.vercel.app</a>
+  <a href="https://amphood.site/">amphood</a>
 </p>
 
 ---
