@@ -2,7 +2,7 @@
   <img src="[public/organism.png](https://github.com/user-attachments/assets/9d22b5d0-c575-49f1-9d3e-de346fa54ebd)" alt="AMPHOOD organism" width="380" />
 </p>
 
-<img src="organism.png" alt="AMPHOOD organism" width="380" />
+<img src="apmhoodz.png" alt="AMPHOOD organism" width="380" />
 
 <h1 align="center">AMPHOOD</h1>
 
